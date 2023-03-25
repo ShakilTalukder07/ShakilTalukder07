@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Event Mart](https://event-app-pi.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-e1a7f.web.app/](https://myportfolio-e1a7f.web.app/)
+- 👨‍💻 All of my projects are available at [https://shakiltalukder.netlify.app/](https://shakiltalukder.netlify.app/)
 
 - 💬 Ask me about **React, MERN**
 
