@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakil Talukder</h1>
-<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakilbd07" target="blank"><img src="https://img.shields.io/twitter/follow/shakilbd07?logo=twitter&style=for-the-badge" alt="shakilbd07" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Redux**
-
-- 👯 I’m looking to collaborate on [Event Mart](https://event-app-pi.vercel.app/)
+- 🌱 I’m currently learning **AI Driven Web App Building**
 
 - 👨‍💻 All of my projects are available at [https://shakiltalukder.netlify.app/](https://shakiltalukder.netlify.app/)
 
